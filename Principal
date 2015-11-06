@@ -1,0 +1,16 @@
+<header>
+  <nav>
+    <ul>
+      <li><a href="#">Hola</a></li>
+      <li>Soy</li>
+      <li>Una</li>
+      <li>chica</li>
+    </ul>
+  </nav>
+</header>
+<section>
+  <p>Soy el cuerpo de tdoo</p>
+</section>
+<footer>
+  <h2>Todos los derechos reservados</h2>
+</footer>
